@@ -32,6 +32,8 @@ client.on('message', message => {
         client.commands.get('card').execute(message, args);
     } else if (command === 'help' || command === 'commands'){
         client.commands.get('help').execute(message, args);
+    } else if (command === 'link' || command === 'url'){
+        client.commands.get('link').execute(message, args);
     }
 });
 
