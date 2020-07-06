@@ -5,4 +5,4 @@ The Monster Club Corporation: https://www.themonsterclubcorporation.com/
 
 Monster Club Discord: https://discord.com/invite/FqmfHbV
 
-Card database by Meowdy#0001:https://repl.it/@Gravitygrey/MonsterClub#cards.json
+Card database by Meowdy#0001: https://repl.it/@Gravitygrey/MonsterClub#cards.json
