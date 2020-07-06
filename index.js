@@ -1,7 +1,7 @@
 //discord const
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const auth = 'NzI5NjY0NjI3NDg2NjIxNzY3.XwMP8g.3FKEYMu7YPnxGVaHhU39keP4pdU';
+const auth = '';
 
 //command files folder setup
 const fs = require('fs');
