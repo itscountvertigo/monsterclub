@@ -1,0 +1,489 @@
+{
+    "S0-01": {
+      "name": "The Army's Greatest Force",
+      "type": "Monster",
+      "rps": "Rock",
+      "power": "1600",
+      "stack": "1",
+      "quote": "This ultimate soldier holds the potential of victory.",
+      "info": ""
+    },
+    "S0-02": {
+      "name": "The First Power Sword",
+      "type": "Power",
+      "rps": "Paper",
+      "power": "+600",
+      "stack": "P",
+      "quote": "The first sword forged to wield magical powers. It’s made of gold because that’s fancy.",
+      "info": ""
+    },
+    "S0-03": {
+      "name": "The Most Loyal Mage",
+      "type": "Monster",
+      "rps": "Paper",
+      "power": "1400",
+      "stack": "2",
+      "quote": "This magical entity values loyalty to its master above all else.",
+      "info": "This card only initiates an attack if the command comes directly from its original owner. Which means that it cannot attack when it is on the opponent's board. If that is the case, during the opponent's attack phase, technically the original owner can initiate an attack with this card on a stack of its own. But why would you do such a thing?"
+    },
+    "S0-04": {
+      "name": "Power Destruct",
+      "type": "Power",
+      "rps": "Rock",
+      "power": "n/a",
+      "stack": "P",
+      "quote": "A strong spell destroying all equipment.",
+      "info": ""
+    },
+    "S0-05": {
+      "name": "The Witch Of The Night",
+      "type": "Monster",
+      "rps": "Paper",
+      "power": "1200",
+      "stack": "5",
+      "quote": "A moon spirit that can form a powerful ally in both an offensive and defensive strategy.",
+      "info": ""
+    },
+    "S0-06": {
+      "name": "The Spirit Sword",
+      "type": "Power",
+      "rps": "Paper",
+      "power": "+1000",
+      "stack": "P",
+      "quote": "A sword that bears the spirits of the forest spirits. It can only be wielded by magical sensitive entities.",
+      "info": "Only a 'paper' type monster can wield this power card. The type of a card can be found in the bottom right corner."
+    },
+    "S0-07": {
+      "name": "Savannah Warrior",
+      "type": "Monster",
+      "rps": "Rock",
+      "power": "1200",
+      "stack": "2",
+      "quote": "Most who've encountered this creature could not tell the story.",
+      "info": ""
+    },
+    "S0-08": {
+      "name": "Monster Swap",
+      "type": "Power",
+      "rps": "Scissors",
+      "power": "n/a",
+      "stack": "P",
+      "quote": "A trick that enables you to take control of a monster of your opponent.",
+      "info": "The monster card you select is transferred to your side of the board. It cannot initiate an attack during the turn in which this event occurs. However, it is able to move."
+    },
+    "S0-09": {
+      "name": "Kiss The Fist",
+      "type": "Power",
+      "rps": "Rock",
+      "power": "+800",
+      "stack": "P",
+      "quote": "A rock-hard golden fist.",
+      "info": ""
+    },
+    "S0-10": {
+      "name": "Gonzo Plus",
+      "type": "Monster",
+      "rps": "Rock",
+      "power": "1000",
+      "stack": "2",
+      "quote": "This monster is powered by the milk light of moon. It climbs the highest mountains to get closer to it.",
+      "info": ""
+    },
+    "S0-11": {
+      "name": "Gonzo The Golden Sentinel",
+      "type": "Monster",
+      "rps": "Paper",
+      "power": "1800",
+      "stack": "1",
+      "quote": "An ambitious soldier and a giant made of rock merge as one golden sentinel.",
+      "info": "To play Gonzo The Golden Sentinel, both Army Soldier and Gonzo Plus must be on your side of the board. Destroy both stacks to play Gonzo The Golden Sentinel."
+    },
+    "S0-12": {
+      "name": "Armed Knight",
+      "type": "Monster",
+      "rps": "Scissors",
+      "power": "1000",
+      "stack": "2",
+      "quote": "A brave armed knight.",
+      "info": ""
+    },
+    "S0-13": {
+      "name": "Surprise Defence",
+      "type": "Power",
+      "rps": "Scissors",
+      "power": "+600",
+      "stack": "P",
+      "quote": "",
+      "info": "This is a very special card which can be played from your hand during one of your opponent's attacks. It still needs to be stacked to a monster card and it adds up to the power card counter of that monster card. If one of your stacks is being attacked, you can play Surprise Defence from your hand to increase your monster's score. At the end of the opponent's turn this cards is destroyed. You can still use this card as a normal power increasing power card. At the end of your turn this cards is destroyed"
+    },
+    "S0-14": {
+      "name": "A Fire Dragon",
+      "type": "Monster",
+      "rps": "Scissors",
+      "power": "700",
+      "stack": "3",
+      "quote": "Just a dragon found near volcanic geysers.",
+      "info": "You can have multiple A Fire Dragon cards in a deck."
+    },
+    "S0-15": {
+      "name": "Return From The Grave",
+      "type": "Power",
+      "rps": "Rock",
+      "power": "n/a",
+      "stack": "P",
+      "quote": "",
+      "info": "You can return a monster from your grave to your board. Make sure you have one position open for the returning monster."
+    },
+    "S0-16": {
+      "name": "Bad Doggo Of The Grave",
+      "type": "Monster",
+      "rps": "Rock",
+      "power": "600",
+      "stack": "1",
+      "quote": "A fur-ious spirit that rarely visits the realm of the mortals. It is said it steals the souls of those who dare touch it.",
+      "info": "This card's effect only works if it is played face down. When it is attacked its effect is activated. The stack that initiated an attack on this stack is destroyed. This effect only occurs if the opponent initiates an attack."
+    },
+    "S0-17": {
+      "name": "Unarmed Knight",
+      "type": "Monster",
+      "rps": "Rock",
+      "power": "600",
+      "stack": "3",
+      "quote": "A brave unarmed knight.",
+      "info": ""
+    },
+    "S0-18": {
+      "name": "The Destacker",
+      "type": "Monster",
+      "rps": "Paper",
+      "power": "400",
+      "stack": "3",
+      "quote": "The Destacker prefers to spectate from the shadows. In contrast to most other monsters, the Destacker is aware that he is part of the game of Monster Club.",
+      "info": "During your play phase (the part of your turn after you draw and before you attack) power cards stacked to The Destacker may return to your hand."
+    },
+    "S0-19": {
+      "name": "Army Soldier",
+      "type": "Monster",
+      "rps": "Rock",
+      "power": "400",
+      "stack": "4",
+      "quote": "A versatile soldier that prefers to fight in pairs.",
+      "info": "You can have multiple Army Soldier cards in your deck. When Army Soldier is destroyed, another Army Soldier on your board can pick up its stack. This effect can only be used if there are two or more Army Soldiers on the board at time of the attack. The power card maximum cannot be exceeded. If there are too many power cards for one Army Soldier to hold, destroy the surplus."
+    },
+    "S0-20": {
+      "name": "Army Soldier",
+      "type": "Monster",
+      "rps": "Rock",
+      "power": "400",
+      "stack": "4",
+      "quote": "A versatile soldier that prefers to fight in pairs.",
+      "info": "You can have multiple Army Soldier cards in your deck. When Army Soldier is destroyed, another Army Soldier on your board can pick up its stack. This effect can only be used if there are two or more Army Soldiers on the board at time of the attack. The power card maximum cannot be exceeded. If there are too many power cards for one Army Soldier to hold, destroy the surplus."
+    },
+    "S0-21": {
+      "name": "Dragon Neutralizer",
+      "type": "Power",
+      "rps": "Paper",
+      "power": "???",
+      "stack": "P",
+      "quote": "A dragon's nightmare.",
+      "info": "All cards with dragon in its name to 0."
+    },
+    "S0-22": {
+      "name": "Gonzo",
+      "type": "Monster",
+      "rps": "Rock",
+      "power": "200",
+      "stack": "1",
+      "quote": "A rock with expression.",
+      "info": "After one face up turn, you can play Gonzo Plus from the deck. When you make use of this effect, be sure to shuffle your deck."
+    },
+    "S0-23": {
+      "name": "Three Turn Protection",
+      "type": "Power",
+      "rps": "Paper",
+      "power": "n/a",
+      "stack": "P",
+      "quote": "",
+      "info": "Your stack will be protected of attacks during the next three turns. The counter starts when this card is activated. It adds up at the start of your turn."
+    },
+    "S0-24": {
+      "name": "Deck Genie",
+      "type": "Monster",
+      "rps": "Paper",
+      "power": "100",
+      "stack": "3",
+      "quote": "A genie roaming the tombs of the sahara desert.",
+      "info": "While this card is activated, every time your opponent draws a card, he must show it to you."
+    },
+    "S0-25": {
+      "name": "Select & Destroy",
+      "type": "Power",
+      "rps": "Rock",
+      "power": "n/a",
+      "stack": "P",
+      "quote": "A very quick and effective spell.",
+      "info": ""
+    },
+    "S0-26": {
+      "name": "Dragon Of The Shimmering",
+      "type": "Monster",
+      "rps": "Scissors",
+      "power": "2000",
+      "stack": "0",
+      "quote": "The one controlling this dragon should handle its power with great care.",
+      "info": "To play the Dragon Of The Shimmering, either Combo Dragon #1, Combo Dragon #2 or Combo Dragon #3  must be on your side of the board. Destroy it to play the Dragon Of The Shimmering."
+    },
+    "S0-27": {
+      "name": "Giggles",
+      "type": "Monster",
+      "rps": "Paper",
+      "power": "1600",
+      "stack": "1",
+      "quote": "A harmful supreme spirit imprisoned in a card.",
+      "info": ""
+    },
+    "S0-28": {
+      "name": "The Second Power Sword",
+      "type": "Power",
+      "rps": "Rock",
+      "power": "+500",
+      "stack": "P",
+      "quote": "The second sword forged to wield magical powers. This sword has a special ability.",
+      "info": "The first time this card is sent to the grave whilst face up, it is returned to its original deck. Be sure to shuffle your deck. The second time it is destroyed it is sent to your grave. If its face down destroyed, it is sent to the grave instantly."
+    },
+    "S0-29": {
+      "name": "Combo Dragon #1",
+      "type": "Monster",
+      "rps": "Rock",
+      "power": "1000",
+      "stack": "1",
+      "quote": "The first member of a vicious tribe of dragons.",
+      "info": ""
+    },
+    "S0-30": {
+      "name": "Combo Dragon #2",
+      "type": "Monster",
+      "rps": "Paper",
+      "power": "1000",
+      "stack": "1",
+      "quote": "The second member of a vicious tribe of dragons.",
+      "info": ""
+    },
+    "S0-31": {
+      "name": "Combo Dragon #3",
+      "type": "Monster",
+      "rps": "Scissors",
+      "power": "1000",
+      "stack": "1",
+      "quote": "The third member of a vicious tribe of dragons.",
+      "info": ""
+    },
+    "S0-32": {
+      "name": "Good Food",
+      "type": "Power",
+      "rps": "Rock",
+      "power": "+600",
+      "stack": "P",
+      "quote": "Monsters demand good food.",
+      "info": ""
+    },
+    "S0-33": {
+      "name": "Card Thief Ray",
+      "type": "Monster",
+      "rps": "Paper",
+      "power": "800",
+      "stack": "2",
+      "quote": "An three eyed entity imprisoned in a card after losing a game of Monster Club.",
+      "info": "This card can steal either a face down or face up power card from your opponent's board."
+    },
+    "S0-34": {
+      "name": "Power Extinction",
+      "type": "Power",
+      "rps": "Scissors",
+      "power": "n/a",
+      "stack": "P",
+      "quote": "",
+      "info": "All face up (active) power cards on both sides of the board are destroyed."
+    },
+    "S0-35": {
+      "name": "The Mage Of Solar Magic",
+      "type": "Monster",
+      "rps": "Paper",
+      "power": "1400",
+      "stack": "3",
+      "quote": "Brother and eternal rival of The Witch Of The Night.",
+      "info": ""
+    },
+    "S0-36": {
+      "name": "Power Swap",
+      "type": "Power",
+      "rps": "Scissors",
+      "power": "n/a",
+      "stack": "P",
+      "quote": "",
+      "info": "Select a power card on your opponent's board and swap it for a power card on your board. It does not matter if the cards are face up or face down."
+    },
+    "S0-37": {
+      "name": "Cat Dragon",
+      "type": "Monster",
+      "rps": "Rock",
+      "power": "1200",
+      "stack": "1",
+      "quote": "Roams in the night.",
+      "info": ""
+    },
+    "S0-38": {
+      "name": "Poisonous Sea Eel",
+      "type": "Monster",
+      "rps": "Scissors",
+      "power": "800",
+      "stack": "2",
+      "quote": "Eel!",
+      "info": ""
+    },
+    "S0-39": {
+      "name": "Bat Dragon",
+      "type": "Monster",
+      "rps": "Scissors",
+      "power": "600",
+      "stack": "4",
+      "quote": "Just a bat dragon.",
+      "info": ""
+    },
+    "S0-40": {
+      "name": "The High Ground",
+      "type": "Power",
+      "rps": "Paper",
+      "power": "-400",
+      "stack": "P",
+      "quote": "The high ground is said to give you the advantage.",
+      "info": "The conflicting monster's score is lowered. This card does not lower the score of the full stack. The conflicting stack's power cards are not affected by this card's effect."
+    },
+    "S0-41": {
+      "name": "Heart Soldier",
+      "type": "Monster",
+      "rps": "Rock",
+      "power": "500",
+      "stack": "3",
+      "quote": "A courageous spirit that fights with heart.",
+      "info": "You can have multiple Heart Soldier cards in a deck."
+    },
+    "S0-42": {
+      "name": "Position Restrict",
+      "type": "Power",
+      "rps": "Scissors",
+      "power": "n/a",
+      "stack": "P",
+      "quote": "",
+      "info": "The conflicting monster cannot change its position whilst this card is active."
+    },
+    "S0-43": {
+      "name": "Pretty Forest Dweller",
+      "type": "Monster",
+      "rps": "Paper",
+      "power": "400",
+      "stack": "7",
+      "quote": "A forest spirit that is extremely dynamic.",
+      "info": ""
+    },
+    "S0-44": {
+      "name": "Lava Girl",
+      "type": "Monster",
+      "rps": "Rock",
+      "power": "400",
+      "stack": "1",
+      "quote": "Dreams of a date with another round-shaped monster.",
+      "info": ""
+    },
+    "S0-45": {
+      "name": "The Mask In The Curtains",
+      "type": "Monster",
+      "rps": "Paper",
+      "power": "200",
+      "stack": "5",
+      "quote": "A dwelling spirit captured in a card. It is said to exchange living spirits for the ones roaming the grave.",
+      "info": "When this monster wins in battle you may return a monster from your grave to any side of the board."
+    },
+    "S0-46": {
+      "name": "Quicker Cat",
+      "type": "Monster",
+      "rps": "Rock",
+      "power": "200",
+      "stack": "2",
+      "quote": "A golden cat that disappears in a blink. You'd better watch your money.",
+      "info": "When this card is attacked it may swap positions with another stack on your side of the board. If Quicker Cat is the only monster you control, you cannot perform this special effect."
+    },
+    "S0-47": {
+      "name": "Deal With The Grave",
+      "type": "Power",
+      "rps": "Rock",
+      "power": "n/a",
+      "stack": "P",
+      "quote": "",
+      "info": "You can return a monster from any grave to any board. Your stack that this card is played to is destroyed."
+    },
+    "S0-48": {
+      "name": "The Grand Power Up",
+      "type": "Power",
+      "rps": "Rock",
+      "power": "n/a",
+      "stack": "P",
+      "quote": "",
+      "info": "A monster with a score of 200 or lower becomes 2000. Other power cards stacked are and will be destroyed. That means that this stack cannot hold any other power cards than The Grand Power-Up."
+    },
+    "S0-49": {
+      "name": "Stack Safeguard",
+      "type": "Power",
+      "rps": "Rock",
+      "power": "n/a",
+      "stack": "P",
+      "quote": "Be sure to secure your precious power cards with this card.",
+      "info": ""
+    },
+    "S0-50": {
+      "name": "Rising Moon",
+      "type": "Power",
+      "rps": "Paper",
+      "power": "n/a",
+      "stack": "P",
+      "quote": "When the moon rises everything deactivates.",
+      "info": "This card turns all your opponent's power cards face down. Therefore, they deactivate. They cannot activate whilst this card is face up on your board. At the end of your turn this card is destroyed."
+    },
+    "S0-51": {
+      "name": "Combined Force",
+      "type": "Power",
+      "rps": "Rock",
+      "power": "n/a",
+      "stack": "P",
+      "quote": "Sometimes it takes two.",
+      "info": "With this card you can add the score of a monster of choice on your board to the stack you play this card to. Make note that you add the score of a monster. Not the score of a calculated stack."
+    },
+    "S0-52": {
+      "name": "Guardian Of The Forest",
+      "type": "Monster",
+      "rps": "Rock",
+      "power": "1400",
+      "stack": "2",
+      "quote": "A versatile forest spirit protecting its lands at all cost.",
+      "info": ""
+    },
+    "S0-53": {
+      "name": "Rising Sun",
+      "type": "Power",
+      "rps": "Rock",
+      "power": "n/a",
+      "stack": "P",
+      "quote": "When the sun rises everything activates.",
+      "info": "All cards on the board are turned face up. Their effects activate. At the end of the turn in which this card is activated it is destroyed."
+    },
+    "S0-54": {
+      "name": "The Witch Of Power",
+      "type": "Monster",
+      "rps": "Paper",
+      "power": "1500",
+      "stack": "3",
+      "quote": "An ancient force sealing the game of Monster Club.",
+      "info": ""
+    }
+  }
+  
