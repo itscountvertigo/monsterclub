@@ -5,25 +5,25 @@ module.exports = {
         const Discord = require('discord.js');
         
         if(args[0] === 'mc' || 'monsterclub'){
-            const embed = new Discord.MessageEmbed()
+            const mcEmbed = new Discord.MessageEmbed()
                 .setTitle('The Monster Club Corporation')
                 .setURL('https://www.themonsterclubcorporation.com/')
                 .setColor(0xcb0063);
-                message.channel.send(embed);
+                message.channel.send(mcEmbed);
         } 
         else if(args[0] === 'shop' || 'store') {
-            const embed = new Discord.MessageEmbed()
+            const storeEmbed = new Discord.MessageEmbed()
                 .setTitle('The Monster Club Corporation Shop')
                 .setURL('https://www.themonsterclubcorporation.com/shop/')
                 .setColor(0xcb0063);
-                message.channel.send(embed);
+                message.channel.send(StoreEmbed);
         }
         else if(args[0] === 'merch'){
-            const embed = new Discord.MessageEmbed()
+            const merchEmbed = new Discord.MessageEmbed()
                 .setTitle('Monster Club Merchandise - Pharoah Tom')
                 .setURL('https://pharoahtomscollections.com/collections/monster-club')
                 .setColor(0xcb0063);
-                message.channel.send(embed);
+                message.channel.send(merchEmbed);
         }
     }
 }
