@@ -4,14 +4,14 @@ module.exports = {
     execute(message, args){
         const Discord = require('discord.js');
         
-        if(args[0] === 'mc' || 'monsterclub'){
+        if(args[0] === 'mc' || args[0] === 'monsterclub'){
             const mcEmbed = new Discord.MessageEmbed()
                 .setTitle('The Monster Club Corporation')
                 .setURL('https://www.themonsterclubcorporation.com/')
                 .setColor(0xcb0063);
                 message.channel.send(mcEmbed);
         } 
-        else if(args[0] === 'shop' || 'store') {
+        else if(args[0] === 'shop' || args[0] === 'store') {
             const storeEmbed = new Discord.MessageEmbed()
                 .setTitle('The Monster Club Corporation Shop')
                 .setURL('https://www.themonsterclubcorporation.com/shop/')
